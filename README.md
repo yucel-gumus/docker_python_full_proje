@@ -22,7 +22,8 @@ options:
 ### API Usage
 
 ```
-http://127.0.0.1:8041/predict
+uvicorm api.py
+http://127.0.0.1:8041/docs -> predict
 ```
 
 ## Installation
