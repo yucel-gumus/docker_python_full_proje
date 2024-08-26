@@ -22,7 +22,7 @@ options:
 ### API Usage
 
 ```
-uvicorm api.py
+uvicorn api.py
 http://127.0.0.1:8041/docs -> predict
 ```
 
